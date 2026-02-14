@@ -14,6 +14,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=cmpx0sec&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmpx0sec&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cmpx0sec&theme=rose&no-frame=false&no-bg=false&margin-w=4)
-
