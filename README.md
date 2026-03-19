@@ -1,7 +1,7 @@
 # cmpx0sec 
 
 # 💫 About Me:
-🎓 BSc Cybersecurity Candidate | Final Year Student with a focus on Secure Infrastructure.<br><br>☁️ Aspiring Cloud Architect | Deep-diving into Google Cloud (GCP) and Automated Scaling.<br><br>🛠️ Active Learner | Currently mastering Infrastructure as Code (Terraform) and Python for Security.<br><br>🌍 Goal: Looking for roles in Cloud Engineering or Security Architecture within remote markets.<br>
+
 
 
 ## 🌐 Socials:
